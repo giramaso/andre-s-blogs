@@ -1,0 +1,40 @@
+h1{
+    color: gold;
+}
+.blogIndex {
+    width: 100%;
+    height: 1500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1F1300;
+}
+.blog-cards {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    color: #FFC15E;
+}
+.blog-card {
+    display: flex;
+    height: 200px;
+    width: 200px;
+    border: 2px solid #F7B05B;
+    margin: 10px;
+    background-color: #AB541C;
+
+}
+.bt{
+    color:#FFC15E;
+    background-color: #AB541C;
+
+    .NavBar{
+        display: flex;
+        align-items: flex-start;
+    }
+    a{
+        color:#FFC15E;
+        text-decoration: none;
+        margin-left: 15px;
+    }
+}
