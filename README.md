@@ -1,5 +1,5 @@
-# React/Redux/Router Starter Project
+# blog
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
+working with:
 
-*Fork from [es6-webpack2-starter](https://github.com/micooz/es6-webpack2-starter)*
+https://github.com/giramaso/database/tree/master
